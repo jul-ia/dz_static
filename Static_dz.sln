@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_dz", "Static_dz\Static_dz.csproj", "{350F1D3F-0CEA-430E-BC73-AB930F372033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_dz2", "Static_dz2\Static_dz2.csproj", "{4AC123E6-B3CE-4280-9C0E-440A149DE0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_dz3", "Static_dz3\Static_dz3.csproj", "{C3F9C406-CDEA-48F8-853F-2B62D1087DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350F1D3F-0CEA-430E-BC73-AB930F372033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350F1D3F-0CEA-430E-BC73-AB930F372033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350F1D3F-0CEA-430E-BC73-AB930F372033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350F1D3F-0CEA-430E-BC73-AB930F372033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC123E6-B3CE-4280-9C0E-440A149DE0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC123E6-B3CE-4280-9C0E-440A149DE0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC123E6-B3CE-4280-9C0E-440A149DE0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC123E6-B3CE-4280-9C0E-440A149DE0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F9C406-CDEA-48F8-853F-2B62D1087DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F9C406-CDEA-48F8-853F-2B62D1087DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F9C406-CDEA-48F8-853F-2B62D1087DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F9C406-CDEA-48F8-853F-2B62D1087DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

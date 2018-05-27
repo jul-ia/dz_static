@@ -1,0 +1,5 @@
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz2\bin\Debug\Static_dz2.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz2\bin\Debug\Static_dz2.exe
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz2\bin\Debug\Static_dz2.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz2\obj\Debug\Static_dz2.exe
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz2\obj\Debug\Static_dz2.pdb

@@ -1,0 +1,6 @@
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\bin\Debug\Static_dz.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\obj\Debug\Static_dz.csprojResolveAssemblyReference.cache
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\bin\Debug\Static_dz.exe
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\bin\Debug\Static_dz.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\obj\Debug\Static_dz.exe
+Z:\StudentsFiles\RPZ\RPZ3\Яічко\C#\proj_static_2605\Static_dz\Static_dz\obj\Debug\Static_dz.pdb
